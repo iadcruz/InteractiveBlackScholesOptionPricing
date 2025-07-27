@@ -1,1 +1,1 @@
-streamlit numpy pandas matplotlib.pyplot scipy.stats math
+streamlit numpy pandas matplotlib scipy math
